@@ -1,2 +1,5 @@
-# my-sails
-### a Sails application
+# AngularJS + SailsJS + Bower + Yeoman for angular
+
+    npm install
+    bower install
+
